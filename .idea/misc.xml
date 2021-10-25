@@ -5,7 +5,14 @@
       <map>
         <entry key="..\:/CoolWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26564102564102565" />
         <entry key="..\:/CoolWeather/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/activity_weather.xml" value="0.234375" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/aqi.xml" value="0.264" />
         <entry key="..\:/CoolWeather/app/src/main/res/layout/choose_area.xml" value="0.23802083333333332" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/forecast.xml" value="0.234375" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/forecast_item.xml" value="0.234375" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/now.xml" value="0.234375" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/suggestion.xml" value="0.234375" />
+        <entry key="..\:/CoolWeather/app/src/main/res/layout/title.xml" value="0.234375" />
       </map>
     </option>
   </component>
